@@ -1,0 +1,46 @@
+: 1524441568:0;z ls
+: 1524441583:0;z -h
+: 1524441610:0;cd arch
+: 1524441628:0;nvim history
+: 1524441674:0;cd config
+: 1524441696:0;cd .zenv
+: 1524441704:0;cd bin
+: 1524441708:0;nvim z.zsh
+: 1524442685:0;cd ls
+: 1524442704:0;cd conf
+: 1524442710:0;cd middlewares
+: 1524442720:0;nvim environment.zsh
+: 1524442742:0;cd utils
+: 1524442749:0;nvim args.zsh
+: 1524442784:0;nvim stdin.zsh
+: 1524442833:0;rm -rf z
+: 1524442901:0;cd .zenv/config/arch
+: 1524442908:0;nvim main.zsh
+: 1524442962:0;nvim .zshrc
+: 1524445487:0;p
+: 1524445498:0;poweroff
+: 1524494874:0;mempercent
+: 1524494974:0;sudo pacman -Ss i3
+: 1524495010:0;sudo pacman -S i3
+: 1524502496:0;nvim .config/i3/config
+: 1524502676:0;vtop
+: 1524517514:0;which python
+: 1524517568:0;nvim .vimrc
+: 1524517644:0;git status
+: 1524517667:0;git commit -m "[master] Oganiza code"
+: 1524521008:0;vision
+: 1524521013:0;cd aulas
+: 1524521015:0;cd preprocessing
+: 1524521066:0;cd .
+: 1524521068:0;cd ..
+: 1524521070:0;ranger
+: 1524521084:0;cd tarefas
+: 1524521087:0;cd lista_1
+: 1524525195:0;git commit -m "[master] Add atividade list_1 1 question"
+: 1524532761:0;s
+: 1524532769:0;nvim main.tex
+: 1524537957:0;ls
+: 1524537959:0;git add .
+: 1524537981:0;git commit -m "[master] Atividade preprocessamento de imagem"
+: 1524537985:0;git push origin master 
+: 1524538167:0;exit
